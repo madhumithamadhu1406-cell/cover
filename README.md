@@ -62,7 +62,7 @@ cover.html
             <hr style="color: black">
         </div>
         <div class="author">
-            <p><b>Madhumitha V</b></p>
+            <p><b>Madhumitha V(25016067)</b></p>
         </div>
         <div class="publisher">
             SEC
